@@ -1,10 +1,6 @@
-# Hi, I'm Abrar Malik 👋
 Welcome to my GitHub profile!
-
 I'm a B.Tech CSE 3rd Year student passionate about Web Development, Frontend & Backend, and AI/ML projects.
-
 ## 🛠️ My Projects
-
 1. **Amazon Clone** - [Repo Link](https://github.com/Abrar-Malik786/amazon-clone)
 2. **Spotify Web Player Clone** - [Repo Link](https://github.com/Abrar-Malik786/spotify-web-player-clone)
 3. **Portfolio Project** - [Repo Link](https://github.com/Abrar-Malik786/portfolio-project)
