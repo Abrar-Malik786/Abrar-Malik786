@@ -10,6 +10,7 @@ I'm a B.Tech CSE 3rd Year student passionate about Web Development, Frontend & B
 - **Student Info Form** - [Repo Link](https://github.com/Abrar-Malik786/html-student-info-form) | [Live Demo](https://abrar-malik786.github.io/html-student-info-form/)
 - **Pet Adoption Project** - [Repo Link](https://github.com/Abrar-Malik786/pet-adoption) | [Live Demo](https://abrar-malik786.github.io/pet-adoption/)
 - **bootstrap-pricing Project** - [Repo Link](https://github.com/Abrar-Malik786/bootstrap-pricing-project) | [Live Demo](https://abrar-malik786.github.io/bootstrap-pricing-project/)
+- - **student-form-bootstrap Project** - [Repo Link](https://github.com/Abrar-Malik786/student-registration-form-bootstrap) | [Live Demo](https://abrar-malik786.github.io/student-registration-form-bootstrap/)
 
 ## 📫 Contact Me
 - Email: [malik.abrar77786@gmail.com](mailto:malik.abrar77786@gmail.com)  
