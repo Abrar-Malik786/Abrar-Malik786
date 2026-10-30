@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile!
 I'm a B.Tech CSE 3rd Year student passionate about Web Development, Frontend & Backend, and AI/ML projects.
 ## 🛠️ My Projects
+- **Airbnb_Clone** - [Repo Link](https://github.com/Abrar-Malik786/Airbnb_Clone) | [Live Demo](https://abrar-malik786.github.io/Airbnb_Clone)
 - **simon-says Game** - [Repo Link](https://github.com/Abrar-Malik786/simon-says-game) | [Live Demo](https://abrar-malik786.github.io/simon-says-game/)
 - **Amazon Clone** - [Repo Link](https://github.com/Abrar-Malik786/amazon-clone) | [Live Demo](https://abrar-malik786.github.io/amazon-clone/)
 - **Spotify Web Player Clone** - [Repo Link](https://github.com/Abrar-Malik786/spotify-web-player-clone) | [Live Demo](https://abrar-malik786.github.io/spotify-web-player-clone/)
