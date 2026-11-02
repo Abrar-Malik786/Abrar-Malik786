@@ -17,3 +17,4 @@ I'm a B.Tech CSE Final Year student passionate about Web Development, Frontend ,
 ## 📫 Contact Me
 - Email: [malik.abrar77786@gmail.com](mailto:malik.abrar77786@gmail.com)  
 - GitHub: [https://github.com/Abrar-Malik786](https://github.com/Abrar-Malik786)
+- LinkedIn : [https://www.linkedin.com/in/abrar-malik-094803319/]
